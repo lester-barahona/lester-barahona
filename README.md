@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-###Holas <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Know me ...</p>
+<h1><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Know me ...</h1>
 
 
 ```javascript
