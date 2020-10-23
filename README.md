@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 <p align="center">
 <img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </p>
-<hr>
-<br>
-<br>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
 
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> Know me
 
@@ -42,12 +45,10 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-<img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+
+
 
 <!--
 <img alt="lester-barahona's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lester-barahona&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
