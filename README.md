@@ -42,8 +42,8 @@ const lester = {
 <hr>
 <p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40">&nbsp; &nbsp; 
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40">
 </p>
 <hr>
@@ -54,9 +54,8 @@ Meet me at
 </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
-<a href="https://www.facebook.com/lester.barahona.56"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>
-<span>          </span>
+<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>&nbsp; 
+<a href="https://www.facebook.com/lester.barahona.56"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>&nbsp; 
 <a href="https://www.linkedin.com/in/lester-barahona-b494701b5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"</a>
 </p>
 
