@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JS Frameworks Angular, Vue & React. 
+- 🌱 I’m currently learning Vue js. 
 
  
  
