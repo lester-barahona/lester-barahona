@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500"/>
+<img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500"/>
 
 <img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="500"/>
 <!--
