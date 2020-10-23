@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <br>
 <tr width="100%">
   <td>
-    holas
+   <img  alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
   </td>
   <td>
-    hola
+   <img  alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
   </td>
 </tr>
 <img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
