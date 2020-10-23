@@ -35,17 +35,8 @@ Here are some ideas to get you started:
 
 
 ```javascript
-const lester = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const lester = { 
+ state: "Loading ..."
 }
 ```
 
@@ -58,6 +49,15 @@ Find Me ..
 
 
 <!--
+pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
 <img alt="lester-barahona's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lester-barahona&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 -->
 
