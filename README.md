@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <p align="right">
   <img src ="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
+
+<img alt="lester-barahona Github Stats" src="https://github-readme-stats.lester-barahona.vercel.app/api?username=lester-barahona&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+
+<img alt="lester-barahona's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlester-barahona&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
