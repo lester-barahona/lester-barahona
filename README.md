@@ -20,28 +20,19 @@ Here are some ideas to get you started:
  
  
 <div>
- 
 <img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
+ <br>
+ <br>
  <p align="center">
 <img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </p>
 </div>
 
+<hr>
 
 
-<!--
-<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
--->
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Know me ...</p>
 
-
-
-###<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em> Know me ...</p>
-<!--
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Know me
--->
 
 ```javascript
 const thai = {
