@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <br>
-<tr>
+<tr width="100%">
   <td>
     holas
   </td>
