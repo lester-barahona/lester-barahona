@@ -46,7 +46,7 @@ const lester = {
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40">&nbsp; &nbsp;
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40">&nbsp; &nbsp; &nbsp; &nbsp;
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
- <img src="https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png" width="60">&nbsp; &nbsp; 
+ <img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp; 
 </p>
 <hr>
