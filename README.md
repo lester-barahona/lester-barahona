@@ -44,7 +44,7 @@ const lester = {
 
 
 <h3 align="center">
-Find Me ..
+Meet me at
 </h3>
 
 <p align="center">
