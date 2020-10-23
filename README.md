@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Know me ...</h3>
+<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> know me ...</h3>
 
 
 ```javascript
@@ -52,9 +52,9 @@ const lester = {
 <hr>
 
 
-<p align="center">
+<h3 align="center">
 Find Me ..
-</p>
+</h3>
 
 
 <!--
