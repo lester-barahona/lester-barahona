@@ -41,11 +41,12 @@ const lester = {
 ```
 <hr>
 <p align="center">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40">&nbsp; &nbsp; 
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp; 
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" width="40">&nbsp; &nbsp;
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40">&nbsp; &nbsp;
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp; 
 </p>
 <hr>
 
