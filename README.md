@@ -54,6 +54,7 @@ const lester = {
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_wordpress-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="40">&nbsp; &nbsp; 
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="40">&nbsp; &nbsp; 
 </p>
 <hr>
 
