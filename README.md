@@ -44,9 +44,9 @@ const lester = {
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" width="40">&nbsp; &nbsp;
  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40">&nbsp; &nbsp;
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40">&nbsp; &nbsp; &nbsp;
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
- <img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" width="40">&nbsp; &nbsp; &nbsp;
+ <img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp;
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-512.png" width="40">&nbsp; &nbsp; 
 </p>
@@ -58,9 +58,9 @@ Meet me at
 </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>&nbsp; 
-<a href="https://www.facebook.com/lester.barahona.56"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>&nbsp; 
-<a href="https://www.linkedin.com/in/lester-barahona-b494701b5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"</a>
+<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="20"></a>&nbsp; 
+<a href="https://www.facebook.com/lester.barahona.56"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="20"></a>&nbsp; 
+<a href="https://www.linkedin.com/in/lester-barahona-b494701b5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20"</a>
 </p>
 
 
