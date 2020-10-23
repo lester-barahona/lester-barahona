@@ -45,7 +45,7 @@ const lester = {
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="40">&nbsp; &nbsp; 
  <img src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" width="40">&nbsp; &nbsp;
- <img src="https://www.iconfinder.com/icons/317756/css3_badge_css_trophy_reward_achievement_award_icon" width="40">&nbsp; &nbsp;
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40">&nbsp; &nbsp;
 </p>
 <hr>
 
