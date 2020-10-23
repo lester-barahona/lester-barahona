@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JS Frameworks Angular, Vue & React. 
 
 
-
-
-<p align="center">
+<div>
+ 
+<img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
+ <p align="center">
 <img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </p>
-<img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
+</div>
+
+
 
 <!--
 <img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="230">
@@ -33,8 +36,11 @@ Here are some ideas to get you started:
 
 
 
-
-### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> Know me
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em> Know me ...</p>
+<!--
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Know me
+-->
 
 ```javascript
 const thai = {
