@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="500"/>
+<img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </p>
 <br>
 <br>
