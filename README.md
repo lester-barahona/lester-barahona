@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-
-<img align="center" alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="400"/>
-
+<p align="center">
+<img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="400"/>
+</p>
 <img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="500"/>
 <!--
 <img alt="lester-barahona's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lester-barahona&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
