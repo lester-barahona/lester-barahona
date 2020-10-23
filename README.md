@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img src ="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>-->
 
+<div align="center" style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+
 
 <img align="right" alt="lester-barahona Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="500"/>
 <!--
