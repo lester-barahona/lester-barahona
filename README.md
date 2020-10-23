@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br>
  <br>
 <img align="right" alt="lester-barahona 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lester-barahona&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues" width="400"/>
-
+ 
  <p align="center">
 <img  alt="Hello lester-barahona 's Github Stats" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
 </p>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ```javascript
-const thai = {
+const lester = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
@@ -50,8 +50,12 @@ const thai = {
 }
 ```
 
+<hr>
 
 
+<p align="center">
+Find Me ..
+</p>
 
 
 <!--
