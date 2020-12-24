@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Vue js && .Net. 
+- 🔭 I’m currently working on my website using Gatsby js
 
  
  
