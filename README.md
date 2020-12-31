@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Vue js && .Net. 
 -->
 
-- 🌱 I’m currently learning Vue js && .Net. 
+
 - 🔭 I’m currently working on my website using Gatsby js
 
  
