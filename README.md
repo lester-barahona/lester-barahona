@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my website using Gatsby js
+- 🔭 I’m currently doing my university internship.
 
  
  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> know me ...</h3>
+<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Happy coding...</h3>
 
 
 ```javascript
@@ -67,8 +67,8 @@ Meet me at
 </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="20"></a>&nbsp; 
-<a href="https://www.linkedin.com/in/lester-barahona-b494701b5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20"</a>
+ <a href="https://www.linkedin.com/in/lester-barahona-b494701b5/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20"</a>&nbsp; 
+<a href="https://www.instagram.com/lester_b_a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="20"></a>
 </p>
 
 
