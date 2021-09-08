@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Happy coding...</h3>
+<h3><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> Happy coding ...</h3>
 
 
 ```javascript
