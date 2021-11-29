@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently doing my university internship.
+- 🌱 I'm currently learning about microservices.
 
  
  
